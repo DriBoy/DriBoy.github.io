@@ -1,0 +1,38 @@
+* {
+    color: white;
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #2F4F4F;
+}
+.jumbotron img:hover {
+    box-shadow: 7px 7px 4px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+.jumbotron #about:hover{
+    box-shadow: 7px 7px 4px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
+#certificates {
+    background-color: #2F4F4F;
+}
+.row .card p{
+    color: black;
+}
+footer {
+    background-color: #2F4F4F;
+}
+footer p{
+    background-color: #2F4F4F;
+}
+footer .container .container-sosmed img {
+    width: 1.8rem;
+    margin-right: 1rem;
+}
+footer .container {
+    justify-content: right;
+}
+#certificates .container .card:hover{
+    box-shadow: 19px 19px 16px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
